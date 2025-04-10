@@ -15,7 +15,7 @@ IndiVest is a comprehensive portfolio management system designed specifically fo
 - **Frontend**: React.js with modern UI components
 - **Backend**: FastAPI (Python)
 - **Database**: PostgreSQL
-- **ML/NLP**: Scikit-learn, NLTK(Finbert), and PyTorch
+- **ML/NLP**: Value at Risk(VaR), NLTK(Finbert)
 - **Deployment**: Vercel
 
 ## Project Structure
