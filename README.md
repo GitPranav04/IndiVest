@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# IndiVest
-=======
 # IndiVest - Indian Market Portfolio Management System
 
 ## Overview
@@ -19,7 +16,7 @@ IndiVest is a comprehensive portfolio management system designed specifically fo
 - **Backend**: FastAPI (Python)
 - **Database**: PostgreSQL
 - **ML/NLP**: Scikit-learn, NLTK(Finbert), and PyTorch
-- **Deployment**: Render
+- **Deployment**: Vercel
 
 ## Project Structure
 ```
@@ -59,7 +56,3 @@ npm start
 
 ## Deployment
 The application is configured for deployment on Render with appropriate configuration files included in the repository.
-
-## License
-MIT
->>>>>>> d01e3659 (Initial commit of IndiVest project)
